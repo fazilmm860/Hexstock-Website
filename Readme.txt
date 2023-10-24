@@ -76,5 +76,6 @@ For inquiries or feedback, please contact:
 Note: Replace placeholders (Your Name, your.email@example.com) with actual information.
 
 
+github repository: https://github.com/fazilmm860/Hexstock-Website
 
 
