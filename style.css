@@ -72,6 +72,12 @@
   cursor: not-allowed;
   opacity: 1;
 }
+.discover-button:hover{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transform: translateY(-5px);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  background-color: #6f6f6f;
+}
 .discover-button-sub {
     display: inline-block;
     padding: 10px 20px;
@@ -120,6 +126,12 @@
   color: #DDDDDD;
   cursor: not-allowed;
   opacity: 1;
+}
+.discover-button-sub:hover{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transform: translateY(-5px);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  background-color: #6f6f6f;
 }
   
 .hero-img {
@@ -176,7 +188,12 @@
         max-width: none; 
     }
 }
-
+.card-text:hover{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transform: translateY(-5px);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+ 
+}
 
 .section-header {
     text-align: center;
@@ -225,7 +242,12 @@
     text-overflow: ellipsis;
 }
 
-
+.card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transform: translateY(-5px);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  
+}
 
 .subscribe {
     position: relative;
@@ -293,6 +315,12 @@
   color: #DDDDDD;
   cursor: not-allowed;
   opacity: 1;
+}
+.button-23:hover{
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transform: translateY(-5px);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  background-color: #6f6f6f;
 }
 
 /* CSS */
